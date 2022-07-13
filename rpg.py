@@ -42,7 +42,7 @@ import numpy as np
 
 st.title('Password generator')
 val = 0
-val = st.number_input("enter the password digit", key=int)
+val = st.number_input("enter the password length", key=int)
 val = int(val)
 # st.write(val)
 

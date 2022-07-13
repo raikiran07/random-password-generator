@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run equation.py
+web: sh setup.sh && streamlit run rpg.py
